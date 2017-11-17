@@ -1,3 +1,5 @@
+Application of multi-label learning and ensemble learning on real-world applications.
+
 Steps to run:
 1. Place all the matlab (.m) files along with data set folders (Multi Label Scene Data, Handwritten Digits) in Matlab workspace.
 2. Now individually run every script.
