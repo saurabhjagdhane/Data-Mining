@@ -1,3 +1,5 @@
+Application of k-nearest neighbor (KNN), artificial neural network and support vector machine (SVM) on two real-life data sets. Data sets used are human activity recognition (accelerometer and gyroscope data) and VidTIMIT consisting of video and audio recordings.
+
 Steps to run:
 1. Place all the matlab (.m) files along with data set folders in Matlab workspace.
 2. Now individually run every script.
